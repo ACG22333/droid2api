@@ -3,7 +3,7 @@
   "model_redirects": {
     "claude-3-5-haiku-20241022": "claude-haiku-4-5-20251001",
     "claude-sonnet-4-5": "claude-sonnet-4-5-20250929",
-    "gpt-5":"gpt-5-2025-08-07"
+    "gpt-5": "gpt-5-2025-08-07"
   },
   "endpoint": [
     {
@@ -20,7 +20,7 @@
     }
   ],
   "proxies": [],
-  "models": [    
+  "models": [
     {
       "name": "claude-3-7-sonnet-20250219",
       "id": "claude-3-7-sonnet-20250219",
@@ -60,7 +60,7 @@
     {
       "name": "gemini-2.5-pro",
       "id": "gemini-2.5-pro",
-      "type": "common"
+      "type": "common",
       "reasoning": "high"
     },
     {
