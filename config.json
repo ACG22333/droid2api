@@ -16,7 +16,7 @@
     },
     {
       "name": "googleapis",
-      "base_url": "https://app.factory.ai/api/llm/a/v1beta"
+      "base_url": "https://app.factory.ai/api/llm/a/v1beta/models"
     },
     {
       "name": "common",
